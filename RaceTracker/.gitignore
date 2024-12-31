@@ -237,4 +237,5 @@
 
 ### Git ###
 */.git/
+*/.gitignore
 # End of https://www.toptal.com/developers/gitignore/api/android,androidstudio,kotlin,linux,grails
